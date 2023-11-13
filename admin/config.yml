@@ -10,6 +10,8 @@ backend:
   name: github
   repo: theapplegates/11ty-sveltia-starter
   branch: master
+  
+  
 
 # The folder used to store uploaded images
 media_folder: "assets/img"
